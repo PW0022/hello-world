@@ -1,5 +1,5 @@
 # hello-world
 starting test
 
-Hell there,
+Hello there,
 Just playing around at this stage..
